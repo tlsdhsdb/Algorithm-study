@@ -74,3 +74,8 @@
 - 참고자료
 	- <이것이 취업을 위한 코딩테스트다 with 파이썬>, 나동빈, 도서와 [유튜브 강의](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC)
 	- <파이썬 알고리즘 인터뷰>, 박상길
+
+
+## 참고
+
+[덕고리즘](https://github.com/dev-dain/Dukgorithm/blob/master/README.md) 을 참고하여 해당 스터디를 진행하고있습니다 :) 
