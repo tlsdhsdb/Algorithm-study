@@ -13,7 +13,6 @@
 - [**신온유**](https://github.com/tlsdhsdb)
 - [**정수아**](https://github.com/suaJeong-777)
 - [**윤진솔**](https://github.com/realbrush)
-- [**도원**](https://github.com/signalzero96)
 
 ## 진행방식
 
