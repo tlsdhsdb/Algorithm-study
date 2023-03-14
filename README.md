@@ -2,7 +2,7 @@
 
 ## 스터디 기간 
 
-2022.1.30 ~
+2022.1.30 ~ 3.21
 
 ## 모임시간 및 장소
 
@@ -24,25 +24,17 @@
 마치기 전 다음주 과제로 풀어올 4문제를 1인당 1문제씩 배정
 (1시간)
 
-## 주제와 문제집 📖
+### 🤩 발표자
+
 | 주차 | 발표자 | 주제 | 문제집 |
 | --- | --- | --- | --- |
 | 1 | 도원 | 수학(합공식/피보나치수/약수/최대공약수/최소공배수/소수) | https://solved.ac/problems/tags/math |
 | 2 | 정수아 | 문자열 | https://solved.ac/problems/tags/string |
-| 3 | 윤진솔 | 배열과 리스트 (구간합,투포인터,슬라이딩 윈도우) |  |
+| 3 | 윤진솔 | 배열과 리스트 (링크드 리스트,투포인터,슬라이딩 윈도우) |  |
 | 4 | 신온유 | 재귀함수의 이해 & 정렬 | https://leetcode.com/problemset/all/?topicSlugs=recursion&page=1  |
-| 4 | 도원 | 완전탐색 & 구현 |  |
-| 5 | 정수아 | 자료구조 #1 (스택,큐,우선순위 큐) |  |
-| 6 | 윤진솔 | BFS & DFS |  |
-| 7 | 신온유 | 탐욕 알고리즘 |  |
-| 8 | 도원 | 자료구조 #2 (그래프) part 1 |  |
-| 9 | 정수아 | 자료구조 #2 (그래프) part 2 |  |
-| 10 | 윤진솔 | 자료구조 #3 (트리) part 1 |  |
-| 11 | 신온유 | 자료구조 #3 (트리) part 2 |  |
-| 12 | 도원 | 분할정복 |  |
-| 14 | 정수아 | 최단경로 |  |
-| 13 | 윤진솔 | 백트래킹 |  |
-| 14 | 신온유 | 이분탐색 |  |
+| 5 | 정수아 | 완전탐색 & 구현 |  |
+| 6 | 윤진솔 | 자료구조 #1 (스택,큐,우선순위 큐) |  |
+| 7 | 신온유 | BFS & DFS |  |
 
 
 ## 💫 과제
@@ -50,12 +42,12 @@
 | 주제 | 1 | 2 | 3 |
 | --- | --- | --- | --- |
 | 수학 | https://www.acmicpc.net/problem/2824 | https://www.acmicpc.net/problem/17103 | https://www.acmicpc.net/problem/9009 |
-| 문자열 |  |  |  |
-| 배열과 리스트 |  |  |  |
-| 재귀함수 & 정렬 | 정수아 | 윤진솔 | 도원 |
-| 스택과 큐 |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| 문자열 | https://www.acmicpc.net/problem/8892 | https://www.acmicpc.net/problem/10384 |  |
+| 배열과 리스트 | https://www.acmicpc.net/problem/7795 | https://www.acmicpc.net/problem/10025 |  |
+| 재귀함수 & 정렬 | https://www.acmicpc.net/problem/6603 | https://www.acmicpc.net/problem/24060 |  |
+| 완전탐색 & 구현 | https://www.acmicpc.net/problem/2503 | https://www.acmicpc.net/problem/2309 |  |
+| 자료구조 #1 (스택,큐,우선순위 큐) |  |  |  |
+| BFS & DFS |  |  |  |
 
 
 ## 가이드라인 
